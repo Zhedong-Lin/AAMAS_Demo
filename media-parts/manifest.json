@@ -1,0 +1,12 @@
+[
+  {
+    "path": "videos/long-form/cineir-long.mp4",
+    "bytes": 212888970,
+    "parts": [
+      "00-000.part",
+      "00-001.part",
+      "00-002.part"
+    ],
+    "sha256": "80387d859f144a91e116293f28100d44504f13cebc654a7801796129c0f786f1"
+  }
+]
